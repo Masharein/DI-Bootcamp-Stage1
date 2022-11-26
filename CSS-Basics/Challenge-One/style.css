@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(40, 190, 236);
+}
+
+li::first-letter {
+    font-size: xx-large;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
