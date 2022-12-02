@@ -1,0 +1,39 @@
+body {
+    width: 100%;
+    margin: 0 20px;
+    text-align: center;
+}
+div,h1 {
+    display: inline-block;
+    height: 100px;
+}
+
+div {
+    height: 800px;
+}
+.container {
+    margin: 20px 0px;
+    width: 100%;
+}
+.left-pane, .right-pane, .third-pane, h1 {
+    border: 3px solid black;
+}
+.left-pane {
+    width: 25%;
+    background: red;
+    margin-right: 9%
+}
+.right-pane {
+    width: 25%;
+    background: lightblue;
+    margin-right: 9%
+}
+
+.third-pane {
+    width: 25%;
+    background: rgb(128, 15, 84);
+}
+h1 {
+    width: 94.5%;
+    background: yellow;
+}

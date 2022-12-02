@@ -1,0 +1,40 @@
+body {
+    width: 100%;
+    margin: 0 5px;
+    text-align: center;
+}
+div, h1 {
+    display: inline-block;
+    height: 300px;
+    width: 450px;
+    margin: 10px; 
+}
+.container {
+    width: 100%;
+}
+.second, h1 {
+    border: 3px solid black;
+}
+.left-pane {
+    background: red;
+}
+.right-pane {
+    background: lightblue;
+}
+.third-pane {
+    background: rgb(128, 15, 84);
+}
+h1 {
+    width: 89%;
+    height: 100px;
+    background: yellow;
+}
+img {
+    width: 450px;
+    height: 300px;
+    margin: 110px;
+    margin-bottom: 20px;
+}
+.second {
+    margin: 105px;
+}

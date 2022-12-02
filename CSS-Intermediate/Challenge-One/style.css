@@ -27,12 +27,12 @@ body {
 }   
 
 #content ul {
-    list-style-type: none;
+   list-style-type: none;
 }
 
 .copyright {
    position: absolute;
-    text-align: right;
-    padding-left: 650px;
+   text-align: right;
+   padding-left: 650px;
 }
    
